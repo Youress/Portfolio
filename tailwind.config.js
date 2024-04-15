@@ -33,7 +33,7 @@ export default {
         // => @media (max-width: 426px) { ... }
       },
       backgroundImage: {
-        'hero': "url('/src/images/20240413_131722.webp')",
+        'hero': "url('/src/images/profile.jpeg')",
       },
       animation: {
         'spino': 'spino 8s ease-in-out infinite',
