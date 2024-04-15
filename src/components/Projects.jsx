@@ -34,7 +34,7 @@ function Projects() {
                 techno2="CSS"
                 techno3="JS"
                 code="https://github.com/Youress/GYM-FITNESS"
-                demo="https://gymate-iota.vercel.app/"
+                demo="https://gymfitnessvr1.netlify.app/"
                 icon="🏋️"
                 cName="flex-row-reverse"
               />
@@ -47,8 +47,8 @@ function Projects() {
                 techno1="HTML"
                 techno2="CSS"
                 techno3="JS"
-                code="https://github.com/stefvndev/Minimalist-E-commerce"
-                demo="https://minimalist-e-commerce.vercel.app/"
+                code="https://github.com/Youress/CreativeScientist"
+                demo="https://creativesc.netlify.app/"
                 icon="</>"
                 
               />
