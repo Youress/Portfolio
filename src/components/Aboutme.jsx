@@ -26,7 +26,7 @@ function AboutMe() {
                 <br />
                 <br />
                 My main stack currently is React in combination with
-                Tailwind CSS and TypeScript.
+                Tailwind CSS and Redux.
               </p>
             </div>
           </div>

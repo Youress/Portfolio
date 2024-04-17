@@ -7,7 +7,7 @@ const skillsIcons = [
     id: 1,
   },
   {
-    img: "https://skillicons.dev/icons?i=js,ts",
+    img: "https://skillicons.dev/icons?i=js",
     id: 2,
   },
   {
