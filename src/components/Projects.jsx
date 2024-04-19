@@ -2,6 +2,7 @@ import ProBox from "./ProBox";
 import gymate from "../images/GYMATE.webp";
 import carrental from "../images/rentalcar.webp";
 import creative from "../images/creatives.webp";
+import omnifood from "../images/omnifood.webp"
 
 function Projects() {
   return (
@@ -49,6 +50,19 @@ function Projects() {
                 techno3="JS"
                 code="https://github.com/Youress/CreativeScientist"
                 demo="https://creativesc1.netlify.app/"
+                icon="</>"
+                
+              />
+              <ProBox
+                title="OmniFood"
+                date="(Jan 2024)"
+                img={omnifood}
+                description="A healthy meal delivered to your door, every single day."
+                techno1="HTML"
+                techno2="CSS"
+                techno3="JS"
+                code="https://github.com/Youress/OmniFood"
+                demo="https://foodapppr.netlify.app/"
                 icon="</>"
                 
               />
