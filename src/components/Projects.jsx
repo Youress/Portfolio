@@ -48,7 +48,7 @@ function Projects() {
                 techno2="CSS"
                 techno3="JS"
                 code="https://github.com/Youress/CreativeScientist"
-                demo="https://creativesc.netlify.app/"
+                demo="https://creativesc1.netlify.app/"
                 icon="</>"
                 
               />
